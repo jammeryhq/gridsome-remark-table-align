@@ -1,19 +1,19 @@
 {
-  "name": "@noxify/gridsome-remark-table-align",
+  "name": "@jammeryhq/gridsome-remark-table-align",
   "version": "1.0.0",
   "description": "Gridsome Remark plugin move the `table` align defintion to the `tableCell` definition.",
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marcus Reinhardt <webstone@gmail.com>",
-  "homepage": "https://github.com/noxify/gridsome-remark-table-align",
+  "author": "JammeryHQ <hello@jammeryhq.com>",
+  "homepage": "https://github.com/jammeryhq/gridsome-remark-table-align",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noxify/gridsome-remark-table-align.git"
+    "url": "https://github.com/jammeryhq/gridsome-remark-table-align.git"
   },
   "bugs": {
-    "url": "https://github.com/noxify/gridsome-remark-table-align/issues"
+    "url": "https://github.com/jammeryhq/gridsome-remark-table-align/issues"
   },
   "license": "MIT",
   "publishConfig": {

@@ -1,13 +1,13 @@
 # gridsome-remark-table-align
 Gridsome Remark plugin move the `table` align defintion to the `tableCell` definition.
 
-With this changes, you can use [@noxify/gridsome-remark-classes](https://github.com/noxify/gridsome-remark-classes) to add your own classes.
+With this changes, you can use [@jammeryhq/gridsome-remark-classes](https://github.com/jammeryhq/gridsome-remark-classes) to add your own classes.
 
 
 # Installation
 
 ```
-npm install --save @noxify/gridsome-remark-table-align
+npm install --save @jammeryhq/gridsome-remark-table-align
 ```
 
 # Usage
@@ -28,7 +28,7 @@ module.exports = {
   transformers : {
     remark : {
       plugins : [
-        '@noxify/gridsome-remark-table-align'
+        '@jammeryhq/gridsome-remark-table-align'
       ]
     }
   }
