@@ -1,18 +1,39 @@
-# gridsome-remark-table-align
+<div align="center">
+
+<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
+
+  <img src="./jammeryhq.png" width="128" />
+  
+</a>
+
+<p>
+Fast-track your JAMstack development & learning
+</p>
+</div>
+
+<hr />
+
+# About this plugin
+
 Gridsome Remark plugin move the `table` align defintion to the `tableCell` definition.
 
 With this changes, you can use [@jammeryhq/gridsome-remark-classes](https://github.com/jammeryhq/gridsome-remark-classes) to add your own classes.
 
-
 # Installation
 
-```
-npm install --save @jammeryhq/gridsome-remark-table-align
+```bash
+npm install @jammeryhq/gridsome-remark-table-align
+
+# or
+
+yarn add @jammeryhq/gridsome-remark-table-align
 ```
 
-# Usage
+# How to use
 
 ```js
+//gridsome.config.js
+
 module.exports = {
 
   plugins: [
